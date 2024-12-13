@@ -1,3 +1,3 @@
-/* build time:Thu Nov 14 2024 02:07:15 GMT+0800 (中国标准时间)*/
+/* build time:Fri Dec 13 2024 20:18:32 GMT+0800 (中国标准时间)*/
 .sea-prev-next-wrapper{border-top:1px solid var(--sea-color-divider);margin-top:2rem;padding-top:.5rem}.sea-prev-next-wrapper::after{content:"";display:table;clear:both}.sea-prev-next-wrapper .prev{float:left;text-align:left}.sea-prev-next-wrapper .next{float:right;text-align:right}.sea-prev-next-wrapper .next,.sea-prev-next-wrapper .prev{width:48%;display:flex;align-items:center;gap:.5rem}.sea-prev-next-wrapper .link{flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.sea-prev-next-wrapper .next:hover .link,.sea-prev-next-wrapper .prev:hover .link{text-decoration:none}
 /* rebuild by neat */
